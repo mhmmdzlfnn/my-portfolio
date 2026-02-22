@@ -15,7 +15,7 @@ This project is designed to showcase skills, projects, and achievements
 related to Blue Team and Security Operations.
 
 ## Preview
-![Preview](public/preview.png)
+![Preview](preview.png)
 
 ## Live Demo
 https://mhmmdzlfnn.github.io/my-portfolio
